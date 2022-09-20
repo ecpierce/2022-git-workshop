@@ -2,4 +2,4 @@
 learning git from taylor
 20220920
 ## New section
-* trying out italics *
+*trying out italic*
